@@ -1,5 +1,9 @@
-import './styles/global.css';
+import "./styles/global.css";
 
 export function App() {
-  return <h1 className='font-bold bg-slate-700'>Hello world</h1>;
+  return (
+    <div className="w-screen h-screen bg-gray-900 flex items-center justify-center text-gray-100">
+      <h1 className="text-4xl text-white">Hello World</h1>
+    </div>
+  );
 }
