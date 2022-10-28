@@ -24,4 +24,4 @@ This project was featured in the third edition of Ignite Lab by Rocketseat. It i
 ## Demo
 You can see the project running on the following link: [https://lab-ds-five.vercel.app/](https://lab-ds-five.vercel.app/)
 
-And the Storybook running on the following link: [https://gurgelff.github.io/lab-ds/storybook](https://gurgelff.github.io/lab-ds/storybook)
+And the Storybook running on the following link: [https://gurgelff.github.io/lab-ds/](https://gurgelff.github.io/lab-ds/)
